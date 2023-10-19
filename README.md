@@ -2,6 +2,7 @@ Olá, Eu sou o Murilo Munari 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-munari-0aba1b258/)
 
 ![murilomunari GitHub stats](https://github-readme-stats.vercel.app/api?username=murilomunari&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilomunari&size_weight=0.5&count_weight=0.5)
 
 Tecnologias que uso no meu dia.
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
